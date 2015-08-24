@@ -1,4 +1,4 @@
-#Practical Numerical Methods with Python
+﻿#Practical Numerical Methods with Python
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. In its first run (Fall 2014), we had three sites participating:
 - [Lorena A. Barba](http://lorenabarba.com), George Washington University, USA
@@ -43,4 +43,4 @@ Laplace and Poisson equations (steps 9 and 10 of “CFD Python”), explained as
 6. **Boundaries take over: the boundary element method (BEM).**
 Weak and boundary integral formulation of elliptic partial differential equations; the free space Green's function. Boundary discretization: basis functions; collocation and Galerkin systems. The BEM stiffness matrix: dense versus sparse;  matrix conditioning. Solving the BEM system: singular and near-singular integrals; Gauss quadrature integration.
 
-
+sfdgsfghstrshgs
